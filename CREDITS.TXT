@@ -1,0 +1,38 @@
+<P><B>Custom About Box Form
+
+
+
+
+
+
+<F08>- BROUGHT TO YOU BY -
+<F12>
+
+<P>-= Duane Newman =-
+
+
+
+
+
+
+- Based on code by -
+<P>
+Mark Robert Strange
+
+
+
+
+
+
+<AL>Now you can align left
+<AC>Or Center
+<AR>Or Right
+
+
+
+
+
+
+<P><AL>OR
+<PL><AC>ALL
+<PL><AR>THREE!!
